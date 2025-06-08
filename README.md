@@ -1,2 +1,1 @@
-# PRISM
-PRISM: Presentation Real-time Intelligent Supervision and Monitoring
+# PRISM: Presentation Real-time Intelligent Supervision and Monitoring
